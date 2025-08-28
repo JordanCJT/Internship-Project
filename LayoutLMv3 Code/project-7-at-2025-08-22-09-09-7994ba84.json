@@ -1,0 +1,562 @@
+[
+  {
+    "image": "\/data\/upload\/7\/7dbd6240-Format1.jpg",
+    "id": 457,
+    "label_rectangles": [
+      {
+        "x": 34.89308398006363,
+        "y": 0.7736052033628738,
+        "width": 59.81671539439477,
+        "height": 12.549595521219956,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Name"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 34.89308398006363,
+        "y": 13.752981393117757,
+        "width": 59.81671539439477,
+        "height": 7.048402963972855,
+        "rotation": 0,
+        "rectanglelabels": [
+          "position"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 5.349462352344262,
+        "y": 28.021699588477432,
+        "width": 27.598362590503278,
+        "height": 1.2893420056047873,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Phone No"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 5.592619731996272,
+        "y": 32.14759400641276,
+        "width": 27.476783900677265,
+        "height": 1.5472104067257455,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Email"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 5.5926197319962725,
+        "y": 36.101576156934115,
+        "width": 27.47678390067727,
+        "height": 1.6331665404327325,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Home Address"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 0.8510508287820394,
+        "y": 44.955057928753675,
+        "width": 31.610459354761463,
+        "height": 13.838937526824743,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Education History"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 1.337365588086062,
+        "y": 63.86540734429058,
+        "width": 31.975195424239484,
+        "height": 17.277182875104195,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Technical Skills"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 1.4589442779120676,
+        "y": 86.84871154283113,
+        "width": 31.488880664935458,
+        "height": 12.033858718978053,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Language"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 37.86616926106877,
+        "y": 25.891061924215506,
+        "width": 61.815712212513986,
+        "height": 54.00039379100724,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Work Experience"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 36.895241844118296,
+        "y": 86.95753200810417,
+        "width": 61.97753344867238,
+        "height": 11.326353782435831,
+        "rotation": 0,
+        "rectanglelabels": [
+          "reference"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 343,
+    "created_at": "2025-08-15T02:14:03.414251Z",
+    "updated_at": "2025-08-15T02:14:03.414251Z",
+    "lead_time": 205.06
+  },
+  {
+    "image": "\/data\/upload\/7\/b5d390dd-Format2_-_1.jpg",
+    "id": 458,
+    "label_rectangles": [
+      {
+        "x": 1.3371338930002938,
+        "y": 29.151339769370548,
+        "width": 41.31743729370908,
+        "height": 6.902277536670983,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Name"
+        ],
+        "original_width": 1241,
+        "original_height": 1755
+      },
+      {
+        "x": 7.755376579401704,
+        "y": 40.02479068330428,
+        "width": 35.56776155380781,
+        "height": 1.985586688631379,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Linkedln"
+        ],
+        "original_width": 1241,
+        "original_height": 1755
+      },
+      {
+        "x": 7.621663190101674,
+        "y": 42.29403261316872,
+        "width": 35.70147494310785,
+        "height": 1.7964831944759965,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Email"
+        ],
+        "original_width": 1241,
+        "original_height": 1755
+      },
+      {
+        "x": 7.621663190101674,
+        "y": 44.37417104887769,
+        "width": 35.835188332407796,
+        "height": 1.8910349415536771,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Phone No"
+        ],
+        "original_width": 1241,
+        "original_height": 1755
+      },
+      {
+        "x": 7.621663190101674,
+        "y": 46.548861231664524,
+        "width": 35.96890172170791,
+        "height": 1.985586688631372,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Home Address"
+        ],
+        "original_width": 1241,
+        "original_height": 1755
+      },
+      {
+        "x": 1.2034205037002643,
+        "y": 54.426057908556004,
+        "width": 41.18372390440904,
+        "height": 26.758144422984742,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Technical Skills"
+        ],
+        "original_width": 1241,
+        "original_height": 1755
+      },
+      {
+        "x": 1.470847282300323,
+        "y": 85.1553757088035,
+        "width": 40.64887034720893,
+        "height": 13.331796337953534,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Language"
+        ],
+        "original_width": 1241,
+        "original_height": 1755
+      },
+      {
+        "x": 54.42134944511196,
+        "y": 10.117036937312252,
+        "width": 44.259131858309715,
+        "height": 21.652350080789766,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Work Experience"
+        ],
+        "original_width": 1241,
+        "original_height": 1755
+      },
+      {
+        "x": 54.555062834411984,
+        "y": 39.428078531394476,
+        "width": 44.392845247609756,
+        "height": 17.208417968138598,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Education History"
+        ],
+        "original_width": 1241,
+        "original_height": 1755
+      },
+      {
+        "x": 54.95620300231208,
+        "y": 63.124818639702994,
+        "width": 44.39284524760974,
+        "height": 35.551456901209406,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Project"
+        ],
+        "original_width": 1241,
+        "original_height": 1755
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 344,
+    "created_at": "2025-08-15T02:16:41.058278Z",
+    "updated_at": "2025-08-15T02:16:41.058278Z",
+    "lead_time": 156.311
+  },
+  {
+    "image": "\/data\/upload\/7\/46df4f5b-Format3_-_1.jpg",
+    "id": 459,
+    "label_rectangles": [
+      {
+        "x": 37.57997302521836,
+        "y": 6.902277536670976,
+        "width": 61.51881705195884,
+        "height": 7.942346754525506,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Name"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 37.57997302521836,
+        "y": 15.22283127950722,
+        "width": 61.51881705195884,
+        "height": 5.200346089272651,
+        "rotation": 0,
+        "rectanglelabels": [
+          "position"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 8.96034944017663,
+        "y": 30.634766053169805,
+        "width": 27.817204232190093,
+        "height": 1.985586688631379,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Phone No"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 8.96034944017663,
+        "y": 33.660421959655714,
+        "width": 27.817204232190093,
+        "height": 1.985586688631372,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Email"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 8.96034944017663,
+        "y": 36.496974371986255,
+        "width": 27.817204232190093,
+        "height": 2.1746901827867475,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Home Address"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 1.4711021468946683,
+        "y": 47.523780371885024,
+        "width": 35.573924643089256,
+        "height": 13.804555073341966,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Education History"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 1.337365588086062,
+        "y": 67.56875075235416,
+        "width": 35.57392464308924,
+        "height": 16.262900497361755,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Technical Skills"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 1.4711021468946683,
+        "y": 89.41020432729933,
+        "width": 35.03897840785483,
+        "height": 9.738829949001499,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Language"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 39.12623290764183,
+        "y": 33.86368944500673,
+        "width": 59.352505851422755,
+        "height": 9.37703276803483,
+        "rotation": 0,
+        "rectanglelabels": [
+          "introduction"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 38.5736024993418,
+        "y": 48.24180635599348,
+        "width": 60.2367145047028,
+        "height": 36.64856973506948,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Work Experience"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 38.684128581001794,
+        "y": 89.4508381359608,
+        "width": 60.015662341382786,
+        "height": 9.767742466702956,
+        "rotation": 0,
+        "rectanglelabels": [
+          "reference"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 345,
+    "created_at": "2025-08-15T02:20:26.253917Z",
+    "updated_at": "2025-08-15T02:20:26.253917Z",
+    "lead_time": 158.076
+  },
+  {
+    "image": "\/data\/upload\/7\/6cb893d5-Format4.jpg",
+    "id": 460,
+    "label_rectangles": [
+      {
+        "x": 37.46834168274175,
+        "y": 0.8595613370698598,
+        "width": 60.89987099466282,
+        "height": 7.892335913095987,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Name"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 37.35781560108174,
+        "y": 8.986323069366717,
+        "width": 61.01039707632283,
+        "height": 7.032774576026126,
+        "rotation": 0,
+        "rectanglelabels": [
+          "position"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 5.857882327980264,
+        "y": 30.55349843584677,
+        "width": 23.099951066941085,
+        "height": 2.8131098304104447,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Phone No"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 5.857882327980271,
+        "y": 34.0698857238599,
+        "width": 23.21047714860108,
+        "height": 2.5786840112095817,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Email"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 5.857882327980271,
+        "y": 37.19556331320484,
+        "width": 23.542055393581094,
+        "height": 2.109832372807844,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Home Address"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 5.857882327980271,
+        "y": 40.321240902549796,
+        "width": 23.32100323026108,
+        "height": 3.1256775893449387,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Email"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 0.7736825716200484,
+        "y": 49.22942203218288,
+        "width": 28.184150823301305,
+        "height": 18.675923596336048,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Technical Skills"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 0.7736825716200484,
+        "y": 71.49987485626562,
+        "width": 27.852572578321293,
+        "height": 8.204903672030483,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Language"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 0.6631564899600307,
+        "y": 83.82461847513991,
+        "width": 28.847307313261336,
+        "height": 15.23767824805661,
+        "rotation": 0,
+        "rectanglelabels": [
+          "reference"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 36.6946591111217,
+        "y": 24.124176518651453,
+        "width": 61.34197532130283,
+        "height": 23.442581920087086,
+        "rotation": 0,
+        "rectanglelabels": [
+          "introduction"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 37.02623735610172,
+        "y": 53.192978099559454,
+        "width": 60.78934491300282,
+        "height": 25.005420714759552,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Work Experience"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      },
+      {
+        "x": 36.91571127444171,
+        "y": 83.19948295727092,
+        "width": 60.789344913002815,
+        "height": 15.940955705659206,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Education History"
+        ],
+        "original_width": 1414,
+        "original_height": 2000
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 346,
+    "created_at": "2025-08-15T02:23:56.659874Z",
+    "updated_at": "2025-08-15T02:23:56.659874Z",
+    "lead_time": 208.927
+  }
+]
