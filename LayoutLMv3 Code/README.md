@@ -1,11 +1,11 @@
-Layout LM
+How to use LayoutLM to create training data afer Label Studio annotations.
 
-label studio export to json-min
+In label studio, after dataset labelling are complete, export as json-min
 
-at "labelstudio_convert_to_layoutlm_code.py" convert json to layoutlm format
+in "labelstudio_convert_to_layoutlm_code.py", it will convert the json to layoutlm usable format.
 
-Using "layoutlm_trainingcode.py" to training the ai model can be change how many time that ai retrain by his self.
+Using "layoutlm_trainingcode.py", start training the ai model. configuration of traning can be changed (i.e. how many datasets used for training).
 
-Then need a sample of resume the run the "LayoutLMv3_model.py". Remember to change the path at "image_path" line 11
+run "LayoutLMv3_model.py" with a sample resume not previously used to training for validation. Remember to change the path at "image_path" line 11
 
-* this environment using Python 3.9.13 version
+* this environment uses Python 3.9.13 
